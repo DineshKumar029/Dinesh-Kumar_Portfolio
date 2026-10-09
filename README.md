@@ -39,9 +39,7 @@ PGDM (Business Analytics) graduate with hands-on e-commerce operations experienc
 | 3 | **Dynamic Excel Workbook**: lookups and calculations that don't break when rows are added | XLOOKUP, LET, LAMBDA | 🚧 In progress |
 | 4 | **SQL Inventory and Order Analysis**: duplicates, nulls, and stock mismatch checks | SQL | 🚧 In progress |
 
-> All projects use public or sample datasets. No employer data is used.
 
-*Each project folder will include a README with the business problem, approach, screenshots, and key findings.*
 
 ---
 
